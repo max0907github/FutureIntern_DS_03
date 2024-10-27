@@ -42,4 +42,4 @@ To run this project locally:
 3. Execute the notebook to preprocess data, run the model, and view outputs.
 
 
-# This README provides a complete overview and guidance on using the project. Let me know if you’d like to expand on any section or add specific technical details.
+**This README provides a complete overview and guidance on using the project. Let me know if you’d like to expand on any section or add specific technical details.**
