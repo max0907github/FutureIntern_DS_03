@@ -1,4 +1,5 @@
 # Employee Turnover Prediction Model
+![image](https://github.com/user-attachments/assets/b1069215-c5e6-45a0-91f2-929f838fedc3)
 
 ## Overview
 This project aims to build a predictive model to analyze and predict employee turnover within an organization. By identifying key factors that contribute to employee exits, this model assists HR departments in implementing preventive measures to retain valuable talent.
